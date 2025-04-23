@@ -1,0 +1,47 @@
+{
+  "store_name": "Lidl",
+  "store_address": "Poznańska 48, Jankowice 62-080 Tarnowo Podgórne",
+  "nip": null,
+  "receipt_number": "33931",
+  "date": "2025-03-05",
+  "time": "11:27",
+  "products": [
+    {
+      "name": "Łowicz Sos pomidor.",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "total_price": 7.99
+    },
+    {
+      "name": "Ciastka BISCOTTI",
+      "quantity": 1,
+      "unit_price": 6.99,
+      "total_price": 6.99
+    },
+    {
+      "name": "Mięso miel.z sz.XXL",
+      "quantity": 1,
+      "unit_price": 9.49,
+      "total_price": 9.49
+    },
+    {
+      "name": "Sos Sriracha",
+      "quantity": 1,
+      "unit_price": 17.99,
+      "total_price": 17.99
+    },
+    {
+      "name": "OSHEE Vit. Water20%",
+      "quantity": 12,
+      "unit_price": 3.29,
+      "total_price": 39.48
+    }
+  ],
+  "total": 81.94,
+  "payment_method": "karta płatnicza",
+  "currency": "PLN",
+  "vat": {
+    "rate": null,
+    "amount": null
+  }
+}

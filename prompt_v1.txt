@@ -1,0 +1,28 @@
+Twoim zadaniem jest odczytać dane z obrazu przedstawiającego paragon i zwrócić wynik w poniższym formacie JSON. Jeśli jakiekolwiek dane są nieczytelne lub ich brakuje — wpisz `null`.
+
+Oto struktura JSON, którą masz zwrócić:
+
+{
+  "store_name": "",                // Nazwa sklepu (np. "Biedronka"), jeśli nieczytelne lub brak – wpisz: null
+  "store_address": "",             // Adres sklepu (ulica, kod, miasto), jeśli brak – wpisz: null
+  "nip": "",                       // NIP sprzedawcy, jeśli brak – wpisz: null
+  "receipt_number": "",            // Numer paragonu, jeśli brak – wpisz: null
+  "date": "",                      // Data zakupu w formacie YYYY-MM-DD, jeśli brak – wpisz: null
+  "time": "",                      // Godzina zakupu w formacie HH:MM, jeśli brak – wpisz: null
+  "products": [                    // Lista zakupionych produktów
+    {
+      "name": "",                  // Nazwa produktu (np. "Mleko 2%"), jeśli nieczytelna – pomiń cały wpis
+      "quantity": 0,              // Ilość sztuk (np. 2), jeśli brak – wpisz 1 jako domyślna
+      "unit_price": 0.00,         // Cena za sztukę, jeśli brak – wpisz null
+      "total_price": 0.00         // Cena łączna za produkt, jeśli brak – wpisz null
+    }
+    // ...więcej produktów w tej samej strukturze
+  ],
+  "total": 0.00,                  // Łączna kwota do zapłaty, jeśli brak – wpisz null
+  "payment_method": "",           // Metoda płatności (np. "karta", "gotówka"), jeśli brak – wpisz null
+  "currency": "",                 // Waluta (np. "PLN"), jeśli brak – wpisz "PLN" jako domyślna
+  "vat": {
+    "rate": "",                   // Stawka VAT (np. "23%"), jeśli brak – wpisz null
+    "amount": 0.00                // Kwota VAT, jeśli brak – wpisz null
+  }
+}
