@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": [
+      "./node_modules/@types", // domyślne
+      "./src/types" // ewentualne własne moduły
+    ],
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*", "src/types/**/*.d.ts"]
+}
