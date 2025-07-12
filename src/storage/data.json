@@ -1,0 +1,4858 @@
+[
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "28939",
+    "date": "2025-03-31",
+    "time": "20:30",
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Woda mocny gaz 1,51",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Ryż biały 1kg",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 4.49
+      },
+      {
+        "name": "Koncentrat Light",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "Mleko 1,5% b.laktozy",
+        "quantity": 2,
+        "unit_price": 3.89,
+        "total_price": 7.78
+      },
+      {
+        "name": "Ziarna ekspandowane",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "Ser w płatkach, tarty",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Burrata z Włoch",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Ser gouda XXL 500g",
+        "quantity": 1,
+        "unit_price": 14.89,
+        "total_price": 14.89
+      },
+      {
+        "name": "Orbit, Airwaves 29g",
+        "quantity": 1,
+        "unit_price": 3.49,
+        "total_price": 3.49
+      },
+      {
+        "name": "Ciecierzyca/ soczew.",
+        "quantity": 1,
+        "unit_price": 5.86,
+        "total_price": 5.86
+      },
+      {
+        "name": "Tortelloni",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "LEIBNIZ Herbatniki",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Milka Czekolada 2",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Czekolada mleczna",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Pomidory susz.paski",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "Baresa PestoGenovese",
+        "quantity": 1,
+        "unit_price": 5.85,
+        "total_price": 5.85
+      },
+      {
+        "name": "Bułka ziemniaczana 2",
+        "quantity": 8,
+        "unit_price": 1.14,
+        "total_price": 9.12
+      },
+      {
+        "name": "Bagietka duża",
+        "quantity": 1,
+        "unit_price": 3.47,
+        "total_price": 3.47
+      }
+    ],
+    "total": 150.54,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "174031",
+    "date": "2025-04-08",
+    "time": "18:17",
+    "products": [
+      {
+        "name": "Lipton Ice Tea1,5L",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "AllnutritionCiastka1",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Baton proteinowy 50%",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Papier toalet.rumian",
+        "quantity": 2,
+        "unit_price": 8.99,
+        "total_price": 17.98
+      },
+      {
+        "name": "AllnutritionCiastka1",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "WILLISCH Lody, kubek",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "WILLISCH Lody, kubek",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "Barilla Makaron",
+        "quantity": 1,
+        "unit_price": 11.49,
+        "total_price": 11.49
+      },
+      {
+        "name": "Lubella MakaronPióra",
+        "quantity": 1,
+        "unit_price": 5.19,
+        "total_price": 5.19
+      },
+      {
+        "name": "Carski z goudą tarty",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Filet z kurczak...",
+        "quantity": 0.892,
+        "unit_price": 24.49,
+        "total_price": 21.85
+      },
+      {
+        "name": "Mięso mielone,kurcz.",
+        "quantity": 1,
+        "unit_price": 11.99,
+        "total_price": 11.99
+      },
+      {
+        "name": "Czosnek granulowany",
+        "quantity": 2,
+        "unit_price": 1.39,
+        "total_price": 2.78
+      },
+      {
+        "name": "Mlekovita Ser Favita",
+        "quantity": 1,
+        "unit_price": 5.66,
+        "total_price": 5.66
+      },
+      {
+        "name": "Bonduelle Warzywa",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Bonduelle Warzywa",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Łaciaty Serek natur.",
+        "quantity": 1,
+        "unit_price": 3.69,
+        "total_price": 3.69
+      },
+      {
+        "name": "Łaciaty Serek natur.",
+        "quantity": 1,
+        "unit_price": 3.69,
+        "total_price": 3.69
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Roleski Musztarda",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "BIO Pomidory z dod.",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Pieczarki 500g",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Cukinia luz",
+        "quantity": 0.4,
+        "unit_price": 11.99,
+        "total_price": 4.8
+      },
+      {
+        "name": "Cebula czerwona 1...",
+        "quantity": 0.416,
+        "unit_price": 7.99,
+        "total_price": 3.32
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.434,
+        "unit_price": 4.49,
+        "total_price": 1.95
+      },
+      {
+        "name": "Papryka czerwona...",
+        "quantity": 0.264,
+        "unit_price": 19.99,
+        "total_price": 5.28
+      },
+      {
+        "name": "Koperek pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      }
+    ],
+    "total": 191.44,
+    "payment_method": "karta",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "90537",
+    "date": "2025-04-11",
+    "time": "19:33",
+    "products": [
+      {
+        "name": "Woda mocny gaz 1,51",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Orbit, Airwaves 29g",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Milka Czekolada 1",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Milka Czekolada 1",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Chust.hig. 3-warstw.",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Ciastka BISCOTTI",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Ciastka BISCOTTI",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Koncentrat Light",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "Chusteczki z grafiką",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Papier toalet.nawilż",
+        "quantity": 1,
+        "unit_price": 4.79,
+        "total_price": 4.79
+      },
+      {
+        "name": "Ciastka OREO",
+        "quantity": 1,
+        "unit_price": 6.85,
+        "total_price": 6.85
+      }
+    ],
+    "total": 87.7,
+    "payment_method": "karta",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 8.77
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "33696",
+    "date": "2025-04-29",
+    "time": "15:39",
+    "products": [
+      {
+        "name": "Woda mocny gaz 1,51",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Papier toalet.rumian",
+        "quantity": 2,
+        "unit_price": 8.99,
+        "total_price": 17.98
+      },
+      {
+        "name": "GO ON PROT.baton 45g",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 4.49
+      },
+      {
+        "name": "Go ON Baton CRISP",
+        "quantity": 1,
+        "unit_price": 3.29,
+        "total_price": 3.29
+      },
+      {
+        "name": "XXL Frytki cienkie",
+        "quantity": 1,
+        "unit_price": 19.95,
+        "total_price": 19.95
+      },
+      {
+        "name": "Mięso miel. woł.700g",
+        "quantity": 1,
+        "unit_price": 23.99,
+        "total_price": 23.99
+      },
+      {
+        "name": "WILLISCH Lody, kubek",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "Lody w kubku b/cukru",
+        "quantity": 1,
+        "unit_price": 13.99,
+        "total_price": 13.99
+      },
+      {
+        "name": "Batony protein.50g",
+        "quantity": 1,
+        "unit_price": 6.49,
+        "total_price": 6.49
+      },
+      {
+        "name": "Koncentrat Light",
+        "quantity": 1,
+        "unit_price": 11.99,
+        "total_price": 11.99
+      },
+      {
+        "name": "Krakus Ogórki konser",
+        "quantity": 1,
+        "unit_price": 7.19,
+        "total_price": 7.19
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Ser Camemb.na grill",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Sałata masłowa szt.",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Ser mazdamer plastry",
+        "quantity": 1,
+        "unit_price": 7.32,
+        "total_price": 7.32
+      },
+      {
+        "name": "Ser gouda plastry300",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Pomidory mal. PL...",
+        "quantity": 0.384,
+        "unit_price": 19.99,
+        "total_price": 7.68
+      },
+      {
+        "name": "Ogórki zielone luz",
+        "quantity": 0.258,
+        "unit_price": 5.99,
+        "total_price": 1.55
+      },
+      {
+        "name": "Bułka ziemniaczana 2",
+        "quantity": 4,
+        "unit_price": 1.14,
+        "total_price": 4.56
+      },
+      {
+        "name": "Bułka mleczna",
+        "quantity": 6,
+        "unit_price": 1.25,
+        "total_price": 7.5
+      }
+    ],
+    "total": 222.36,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "93318",
+    "date": "2025-05-02",
+    "time": "12:14",
+    "products": [
+      {
+        "name": "Gumy Orbit Refresh.",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "OSHEE Vit.Water20%",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "OSHEE Vit.Water20%",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "JACOBS CREMA kawa",
+        "quantity": 1,
+        "unit_price": 39.99,
+        "total_price": 39.99
+      },
+      {
+        "name": "Bochen rustykalny",
+        "quantity": 1,
+        "unit_price": 6.29,
+        "total_price": 6.29
+      }
+    ],
+    "total": 57.25,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 7.48
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "384031",
+    "date": "2025-05-02",
+    "time": "14:58",
+    "products": [
+      {
+        "name": "Ryż biały długoziarn",
+        "quantity": 1,
+        "unit_price": 3.69,
+        "total_price": 3.69
+      },
+      {
+        "name": "Lech Free 0% Hydrate",
+        "quantity": 4,
+        "unit_price": 4.99,
+        "total_price": 19.96
+      },
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 0.774,
+        "unit_price": 24.8,
+        "total_price": 19.2
+      },
+      {
+        "name": "Curry",
+        "quantity": 1,
+        "unit_price": 1.39,
+        "total_price": 1.39
+      },
+      {
+        "name": "Łaciaty Serek natur.",
+        "quantity": 1,
+        "unit_price": 3.69,
+        "total_price": 3.69
+      },
+      {
+        "name": "Pieczarki 500g",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Sałata masłowa szt.",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.228,
+        "unit_price": 4.49,
+        "total_price": 1.02
+      },
+      {
+        "name": "Ziemniaki PL luz",
+        "quantity": 1.234,
+        "unit_price": 2.99,
+        "total_price": 3.69
+      },
+      {
+        "name": "Winogrono mix 500g",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "Bataty luz",
+        "quantity": 0.362,
+        "unit_price": 11.99,
+        "total_price": 4.34
+      },
+      {
+        "name": "Marchew luz",
+        "quantity": 0.16,
+        "unit_price": 3.99,
+        "total_price": 0.64
+      },
+      {
+        "name": "Pomidory mal. PL...",
+        "quantity": 0.158,
+        "unit_price": 17.99,
+        "total_price": 2.84
+      }
+    ],
+    "total": 88.43,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "34332",
+    "date": "2023-05-05",
+    "time": "16:29",
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Woda mocny gaz 1,5l",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Mąka Tortowa 450 1",
+        "quantity": 1,
+        "unit_price": 2.29,
+        "total_price": 2.29
+      },
+      {
+        "name": "Mleko 1,5% b.laktozy",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": 3.89
+      },
+      {
+        "name": "Pudliszki Ketchup",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "Jogurt grecki 10%",
+        "quantity": 1,
+        "unit_price": 2.85,
+        "total_price": 2.85
+      },
+      {
+        "name": "GOONG Panierka Panko",
+        "quantity": 1,
+        "unit_price": 5.19,
+        "total_price": 5.19
+      },
+      {
+        "name": "Pomidory krojone",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "Pomidory z dodatkami",
+        "quantity": 2,
+        "unit_price": 2.99,
+        "total_price": 5.98
+      },
+      {
+        "name": "Mozzarella w kawałku",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Mlekovita Ser Favita",
+        "quantity": 1,
+        "unit_price": 5.66,
+        "total_price": 5.66
+      },
+      {
+        "name": "Pudliszki Koncentrat",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": 3.89
+      },
+      {
+        "name": "Parówki z fil.kurcz.",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Ciastka BISCOTTI",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Ser gouda plastry300",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Sante Peanut butter",
+        "quantity": 1,
+        "unit_price": 13.49,
+        "total_price": 13.49
+      },
+      {
+        "name": "Schab, Szynka z wędz.",
+        "quantity": 1,
+        "unit_price": 9.39,
+        "total_price": 9.39
+      },
+      {
+        "name": "Łosoś atlant. porcje",
+        "quantity": 1,
+        "unit_price": 44.9,
+        "total_price": 44.9
+      },
+      {
+        "name": "Drożdże instant 6pak",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 4.49
+      },
+      {
+        "name": "Papryka mix 500g",
+        "quantity": 1,
+        "unit_price": 11.99,
+        "total_price": 11.99
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Pomidory trusk. 250g",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Ser.śmiet.na Grill",
+        "quantity": 1,
+        "unit_price": 4.75,
+        "total_price": 4.75
+      },
+      {
+        "name": "Zielenina mix pęczek",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "WK Dzik Wafle kukur.",
+        "quantity": 2,
+        "unit_price": 8.99,
+        "total_price": 17.98
+      },
+      {
+        "name": "Bazylia w doniczce",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Croissant maślany27%",
+        "quantity": 2,
+        "unit_price": 1.7,
+        "total_price": 3.4
+      },
+      {
+        "name": "Bajgiel pełnoziarn.",
+        "quantity": 3,
+        "unit_price": 1,
+        "total_price": 3
+      },
+      {
+        "name": "Marchew luz",
+        "quantity": 0.476,
+        "unit_price": 3.99,
+        "total_price": 1.9
+      },
+      {
+        "name": "Limetki szt.",
+        "quantity": 2,
+        "unit_price": 1.99,
+        "total_price": 3.98
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.132,
+        "unit_price": 4.49,
+        "total_price": 0.59
+      },
+      {
+        "name": "Ogórki zielone 1...",
+        "quantity": 0.144,
+        "unit_price": 12.99,
+        "total_price": 1.87
+      },
+      {
+        "name": "Bajgiel pełnoziarn.",
+        "quantity": 3,
+        "unit_price": 1,
+        "total_price": 3
+      },
+      {
+        "name": "Marchew luz",
+        "quantity": 0.476,
+        "unit_price": 3.99,
+        "total_price": 1.9
+      },
+      {
+        "name": "Limetki szt.",
+        "quantity": 2,
+        "unit_price": 1.99,
+        "total_price": 3.98
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.132,
+        "unit_price": 4.49,
+        "total_price": 0.59
+      },
+      {
+        "name": "Ogórki zielone 1...",
+        "quantity": 0.144,
+        "unit_price": 12.99,
+        "total_price": 1.87
+      }
+    ],
+    "total": 251.76,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "42233",
+    "date": "2025-05-10",
+    "time": "10:39",
+    "products": [
+      {
+        "name": "DZIK Napój energ. 1",
+        "quantity": 1,
+        "unit_price": 5.49,
+        "total_price": 5.49
+      },
+      {
+        "name": "DZIK Napój energ. 2",
+        "quantity": 2,
+        "unit_price": 5.49,
+        "total_price": 10.98
+      },
+      {
+        "name": "Filet z kurczak...",
+        "quantity": 1.025,
+        "unit_price": 24.9,
+        "total_price": 25.52
+      },
+      {
+        "name": "Mleko 1,5% b.laktozy",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": 3.89
+      },
+      {
+        "name": "Ser gouda plastry300",
+        "quantity": 2,
+        "unit_price": 9.99,
+        "total_price": 19.98
+      },
+      {
+        "name": "Schab, Szynka z wędz.",
+        "quantity": 1,
+        "unit_price": 9.39,
+        "total_price": 9.39
+      },
+      {
+        "name": "Schab, Szynka z wędz.",
+        "quantity": 1,
+        "unit_price": 9.39,
+        "total_price": 9.39
+      },
+      {
+        "name": "Jogurt grecki 10%",
+        "quantity": 1,
+        "unit_price": 2.85,
+        "total_price": 2.85
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Sadz.warzyw rośl.ż.",
+        "quantity": 1,
+        "unit_price": 16.99,
+        "total_price": 16.99
+      },
+      {
+        "name": "Sadz.warzyw rośl.ż.",
+        "quantity": 1,
+        "unit_price": 16.99,
+        "total_price": 16.99
+      },
+      {
+        "name": "Wielkop.olej rzep.",
+        "quantity": 1,
+        "unit_price": 8.49,
+        "total_price": 8.49
+      },
+      {
+        "name": "Chleb tost. maślany",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Parówki z fil.indyka",
+        "quantity": 1,
+        "unit_price": 5.49,
+        "total_price": 5.49
+      },
+      {
+        "name": "Ciasto francuskie",
+        "quantity": 1,
+        "unit_price": 3.84,
+        "total_price": 3.84
+      },
+      {
+        "name": "Bułka poznańska XXL",
+        "quantity": 2,
+        "unit_price": 0.91,
+        "total_price": 1.82
+      }
+    ],
+    "total": 152.09,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "42549",
+    "date": "2025-05-12",
+    "time": "13:15",
+    "products": [
+      {
+        "name": "Cola0, Fanta0, Sprite0",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Mleko 1,5% b.laktozy",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": 3.89
+      },
+      {
+        "name": "Mięso mielone wołowe",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      },
+      {
+        "name": "Boczek sur. węd...",
+        "quantity": 0.362,
+        "unit_price": 28.2,
+        "total_price": 10.21
+      },
+      {
+        "name": "DZIK Napój energ. 2",
+        "quantity": 1,
+        "unit_price": 5.49,
+        "total_price": 5.49
+      },
+      {
+        "name": "Pieczarki brązo.300g",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Makaron psz. Ramen",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Winiary Bulion słoik",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Przekąska z alg",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Baton proteinowy 50%",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Marchew luz",
+        "quantity": 0.138,
+        "unit_price": 3.99,
+        "total_price": 0.55
+      }
+    ],
+    "total": 72.67,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23,00%",
+      "amount": 3.7
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "94775",
+    "date": "2025-05-13",
+    "time": "19:31",
+    "products": [
+      {
+        "name": "Maliny 125g",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Masło Ekstra",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "Nektarynki 500g",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "Gumy Orbit Refresh.",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Mąka Tortowa 450 1",
+        "quantity": 1,
+        "unit_price": 2.29,
+        "total_price": 2.29
+      },
+      {
+        "name": "Sól warzona jodowana",
+        "quantity": 1,
+        "unit_price": 1.79,
+        "total_price": 1.79
+      }
+    ],
+    "total": 39.54,
+    "payment_method": "Karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 0.33
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice 62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "95071",
+    "date": "2025-05-15",
+    "time": "19:27",
+    "products": [
+      {
+        "name": "Napój z sokiem",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Worki na śmieci 60L",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Napój z naparu herb.",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Konc.napoju DROP IN",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      },
+      {
+        "name": "Schab, Szynka z wędz.",
+        "quantity": 1,
+        "unit_price": 9.39,
+        "total_price": 9.39
+      },
+      {
+        "name": "Ser gouda XXL 500g",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      },
+      {
+        "name": "Chleb tost. maślany",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Żywiec woda żr. 6szt",
+        "quantity": 1,
+        "unit_price": 10.2,
+        "total_price": 10.2
+      }
+    ],
+    "total": 78.53,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "95351",
+    "date": "2025-05-17",
+    "time": "14:52",
+    "products": [
+      {
+        "name": "Tortilla pszennaószt",
+        "quantity": 1,
+        "unit_price": 4.82,
+        "total_price": 4.82
+      },
+      {
+        "name": "Chleb tost. maślany",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Mięso mielone wieprz",
+        "quantity": 1,
+        "unit_price": 6.71,
+        "total_price": 6.71
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.663,
+        "unit_price": 21.98,
+        "total_price": 14.57
+      },
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 0.637,
+        "unit_price": 24.8,
+        "total_price": 15.8
+      },
+      {
+        "name": "Ser w płatkach, tarty",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Jogurt grecki 10%",
+        "quantity": 1,
+        "unit_price": 2.85,
+        "total_price": 2.85
+      },
+      {
+        "name": "Curry",
+        "quantity": 1,
+        "unit_price": 1.39,
+        "total_price": 1.39
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Brokuły 500g",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Natka pietru. pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "Szczypiorek pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.324,
+        "unit_price": 4.49,
+        "total_price": 1.45
+      },
+      {
+        "name": "Cebula czerwona 1...",
+        "quantity": 0.428,
+        "unit_price": 7.99,
+        "total_price": 3.42
+      },
+      {
+        "name": "Pudliszki Koncentrat",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": 3.89
+      },
+      {
+        "name": "Pomidory kiścio.",
+        "quantity": 0.298,
+        "unit_price": 7.99,
+        "total_price": 2.38
+      },
+      {
+        "name": "Szparagi zielon.500g",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "Imbir luz",
+        "quantity": 0.072,
+        "unit_price": 24.9,
+        "total_price": 1.79
+      },
+      {
+        "name": "Ogórki grunt. PL...",
+        "quantity": 0.158,
+        "unit_price": 14.99,
+        "total_price": 2.37
+      }
+    ],
+    "total": 103.37,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-05-26",
+    "time": null,
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Żywiec woda żr. 6szt",
+        "quantity": 1,
+        "unit_price": 10.2,
+        "total_price": 10.2
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.643,
+        "unit_price": 21.98,
+        "total_price": 14.13
+      },
+      {
+        "name": "Filet z kurczak...",
+        "quantity": 0.845,
+        "unit_price": 24.9,
+        "total_price": 21.04
+      },
+      {
+        "name": "WILLISCH Lody w kub.",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "WILLISCH Lody w kub.",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "Łosoś atlant. porcje",
+        "quantity": 1,
+        "unit_price": 44.9,
+        "total_price": 44.9
+      },
+      {
+        "name": "Mąka Tortowa 450 1",
+        "quantity": 1,
+        "unit_price": 1.99,
+        "total_price": 1.99
+      },
+      {
+        "name": "Maślanka 1,5%",
+        "quantity": 1,
+        "unit_price": 3.55,
+        "total_price": 3.55
+      },
+      {
+        "name": "Lisner Tuńczyk",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Jogurt natur. 400g",
+        "quantity": 1,
+        "unit_price": 1.79,
+        "total_price": 1.79
+      },
+      {
+        "name": "Ryż biały 1kg",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Ser cheddar wiórki",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Ciastka BISCOTTI",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Sos Sriracha",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "Czosnek młody szt.",
+        "quantity": 2,
+        "unit_price": 1.98,
+        "total_price": 3.96
+      },
+      {
+        "name": "Sałata rzymska 2szt",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Buraczki zasmażane",
+        "quantity": 1,
+        "unit_price": 3.93,
+        "total_price": 3.93
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Pomidory mal. PL ...",
+        "quantity": 0.298,
+        "unit_price": 7.99,
+        "total_price": 2.38
+      },
+      {
+        "name": "Szparagi zielon.500g",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "Ogórki zielone 1...",
+        "quantity": 1.148,
+        "unit_price": 9.99,
+        "total_price": 11.47
+      },
+      {
+        "name": "Jabłka Red Delici...",
+        "quantity": 0.77,
+        "unit_price": 4.99,
+        "total_price": 3.84
+      },
+      {
+        "name": "Awokado Hass szt.",
+        "quantity": 2,
+        "unit_price": 6.99,
+        "total_price": 13.98
+      },
+      {
+        "name": "Ziemniaki wczesne",
+        "quantity": 1.992,
+        "unit_price": 5.99,
+        "total_price": 11.93
+      },
+      {
+        "name": "Cukinia luz",
+        "quantity": 0.792,
+        "unit_price": 4.99,
+        "total_price": 3.95
+      }
+    ],
+    "total": 228.9,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": "23,00%",
+      "amount": 4.93
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice 62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "75113",
+    "date": "2024-05-26",
+    "time": "15:19",
+    "products": [
+      {
+        "name": "PTU A",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 26.34
+      },
+      {
+        "name": "Kwota A 23,00%",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 4.93
+      },
+      {
+        "name": "PTU B",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 24.98
+      },
+      {
+        "name": "Kwota B 08,00%",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 1.85
+      },
+      {
+        "name": "PTU C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 228.9
+      },
+      {
+        "name": "Kwota C 05,00%",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 10.9
+      }
+    ],
+    "total": 280.22,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "LIDL",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "75113",
+    "date": "2025-05-26",
+    "time": "15:19",
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Żywiec woda źr. 6szt",
+        "quantity": 1,
+        "unit_price": 10.2,
+        "total_price": 10.2
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.643,
+        "unit_price": 21.98,
+        "total_price": 14.13
+      },
+      {
+        "name": "Filet z kurczak...",
+        "quantity": 0.845,
+        "unit_price": 24.9,
+        "total_price": 21.04
+      },
+      {
+        "name": "WILLISCH Lody w kub.",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "WILLISCH Lody w kub.",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "Łosoś atlant. porcje",
+        "quantity": 1,
+        "unit_price": 44.9,
+        "total_price": 44.9
+      },
+      {
+        "name": "Mąka Tortowa 450 1",
+        "quantity": 1,
+        "unit_price": 1.99,
+        "total_price": 1.99
+      },
+      {
+        "name": "Maslanka 1,5%",
+        "quantity": 1,
+        "unit_price": 3.55,
+        "total_price": 3.55
+      },
+      {
+        "name": "Lisner Tuńczyk",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Jogurt natur. 400g",
+        "quantity": 1,
+        "unit_price": 1.79,
+        "total_price": 1.79
+      },
+      {
+        "name": "Ryż biały 1kg",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Ser cheddar wiórki",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Ciastka BISCOTTI",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Sos Sriracha",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "Czosnek młody szt.",
+        "quantity": 2,
+        "unit_price": 1.98,
+        "total_price": 3.96
+      },
+      {
+        "name": "Sałata rzymska 2szt",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Buraczki zasmażane",
+        "quantity": 1,
+        "unit_price": 3.93,
+        "total_price": 3.93
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Pomidory mal. PL ...",
+        "quantity": 0.298,
+        "unit_price": 7.99,
+        "total_price": 2.38
+      },
+      {
+        "name": "Szparagi zielon. 500g",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "Ogórki zielone 1...",
+        "quantity": 1.148,
+        "unit_price": 9.99,
+        "total_price": 11.47
+      },
+      {
+        "name": "Jabłka Red Delici...",
+        "quantity": 0.77,
+        "unit_price": 4.99,
+        "total_price": 3.84
+      },
+      {
+        "name": "Awokado Hass szt.",
+        "quantity": 2,
+        "unit_price": 6.99,
+        "total_price": 13.98
+      },
+      {
+        "name": "Ziemniaki wczesne",
+        "quantity": 1.992,
+        "unit_price": 5.99,
+        "total_price": 11.93
+      },
+      {
+        "name": "Cukinia luz",
+        "quantity": 0.792,
+        "unit_price": 4.99,
+        "total_price": 3.95
+      }
+    ],
+    "total": 280.22,
+    "payment_method": "karta",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl Plus voucher",
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "185128",
+    "date": "2025-06-02",
+    "time": "17:54",
+    "products": [
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 0.52,
+        "unit_price": 24.8,
+        "total_price": 12.9
+      },
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 0.643,
+        "unit_price": 24.8,
+        "total_price": 15.95
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.577,
+        "unit_price": 21.98,
+        "total_price": 12.68
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.636,
+        "unit_price": 21.98,
+        "total_price": 13.98
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.541,
+        "unit_price": 21.98,
+        "total_price": 11.89
+      },
+      {
+        "name": "Ryż biały 1kg",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Pomidory susz.paski",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 2,
+        "unit_price": 6.99,
+        "total_price": 13.98
+      },
+      {
+        "name": "Jogurt grecki 10%",
+        "quantity": 1,
+        "unit_price": 2.85,
+        "total_price": 2.85
+      },
+      {
+        "name": "Ser Camem.zSosżur.",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Ser w płatkach, tarty",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "Szpinak XXL baby 1",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Natka pietru. pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "Szczypiorek pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "Łaciaty Serek natur.",
+        "quantity": 1,
+        "unit_price": 3.69,
+        "total_price": 3.69
+      },
+      {
+        "name": "Ser mozzarella tarty",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Musztarda 180g",
+        "quantity": 1,
+        "unit_price": 2.66,
+        "total_price": 2.66
+      },
+      {
+        "name": "Ziemniaki wczesne",
+        "quantity": 0.806,
+        "unit_price": 5.99,
+        "total_price": 4.83
+      },
+      {
+        "name": "Bataty luz",
+        "quantity": 0.586,
+        "unit_price": 11.99,
+        "total_price": 7.03
+      },
+      {
+        "name": "Marchew młoda luz",
+        "quantity": 0.402,
+        "unit_price": 3.99,
+        "total_price": 1.6
+      },
+      {
+        "name": "Cebula szalotka ...",
+        "quantity": 0.088,
+        "unit_price": 11.9,
+        "total_price": 1.05
+      },
+      {
+        "name": "Papryka żółta luz",
+        "quantity": 0.272,
+        "unit_price": 16.99,
+        "total_price": 4.62
+      },
+      {
+        "name": "Papryka czerwona...",
+        "quantity": 0.278,
+        "unit_price": 16.99,
+        "total_price": 4.72
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.134,
+        "unit_price": 4.49,
+        "total_price": 0.6
+      },
+      {
+        "name": "Kinder Joy",
+        "quantity": 3,
+        "unit_price": 5.49,
+        "total_price": 16.47
+      }
+    ],
+    "total": 170.5,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 2.83
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "77690",
+    "date": "2025-06-04",
+    "time": "17:21",
+    "products": [
+      {
+        "name": "Papier toalet.rumian",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Woda mocny gaz 1,5l",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Kaktus lody 5+1",
+        "quantity": 1,
+        "unit_price": 18.49,
+        "total_price": 18.49
+      },
+      {
+        "name": "Lody Kaktus POP!8+1",
+        "quantity": 1,
+        "unit_price": 18.49,
+        "total_price": 18.49
+      },
+      {
+        "name": "Pasta Proszkliwo",
+        "quantity": 1,
+        "unit_price": 14.89,
+        "total_price": 14.89
+      },
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Jabłka Red Delici...",
+        "quantity": 0.718,
+        "unit_price": 5.99,
+        "total_price": 4.3
+      },
+      {
+        "name": "Winogrono mix 500g",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "Kinder Joy",
+        "quantity": 3,
+        "unit_price": 5.49,
+        "total_price": 16.47
+      }
+    ],
+    "total": 128.9,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 13.58
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice 62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "68119",
+    "date": "2025-06-05",
+    "time": "18:51",
+    "products": [
+      {
+        "name": "Ser tartyMac&cheese",
+        "quantity": 1,
+        "unit_price": 13.99,
+        "total_price": 13.99
+      },
+      {
+        "name": "Kiełbasa Podwaw...",
+        "quantity": 0.51,
+        "unit_price": 24,
+        "total_price": 12.24
+      },
+      {
+        "name": "Coca-Cola ZERO 0,5l",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Pieczarki 500g",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Cola0, Fanta0, Sprite0",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.162,
+        "unit_price": 4.49,
+        "total_price": 0.73
+      },
+      {
+        "name": "Kinder Joy",
+        "quantity": 2,
+        "unit_price": 5.49,
+        "total_price": 10.98
+      }
+    ],
+    "total": 57.21,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice 62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "98096",
+    "date": "2025-06-06",
+    "time": "15:47",
+    "products": [
+      {
+        "name": "inkaożeszkarmel kawa",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Wielkop.olej rzep.",
+        "quantity": 1,
+        "unit_price": 8.49,
+        "total_price": 8.49
+      },
+      {
+        "name": "Czosnek granul.XXL",
+        "quantity": 1,
+        "unit_price": 3.29,
+        "total_price": 3.29
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 0.256,
+        "unit_price": 4.49,
+        "total_price": 1.15
+      },
+      {
+        "name": "Cola0, Fanta0, Sprite0",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Napój z naparu herb.",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Mlekovita cheddar",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "Boczek wędz.,plastry",
+        "quantity": 1,
+        "unit_price": 5.85,
+        "total_price": 5.85
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.646,
+        "unit_price": 21.98,
+        "total_price": 14.2
+      },
+      {
+        "name": "Bułka mleczna",
+        "quantity": 4,
+        "unit_price": 1.25,
+        "total_price": 5
+      }
+    ],
+    "total": 76.24,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "99471",
+    "date": "2025-06-16",
+    "time": "18:58",
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Twaróg klinek chudy",
+        "quantity": 1,
+        "unit_price": 3.59,
+        "total_price": 3.59
+      },
+      {
+        "name": "Mleko 1,5% b.laktozy",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": 3.89
+      },
+      {
+        "name": "Jogurt grecki 10%",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "WILLISCH Lody w kub.",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.604,
+        "unit_price": 21.98,
+        "total_price": 13.28
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.518,
+        "unit_price": 21.98,
+        "total_price": 11.39
+      },
+      {
+        "name": "Brokuły 500g",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Pomidory mal. PL...",
+        "quantity": 0.376,
+        "unit_price": 12.99,
+        "total_price": 4.88
+      },
+      {
+        "name": "Sałata rzymska 2szt.",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Hummus 160g",
+        "quantity": 1,
+        "unit_price": 4.19,
+        "total_price": 4.19
+      },
+      {
+        "name": "Tuńczyk jednolity",
+        "quantity": 2,
+        "unit_price": 7.13,
+        "total_price": 14.26
+      },
+      {
+        "name": "Ser kozi plastry",
+        "quantity": 1,
+        "unit_price": 9.98,
+        "total_price": 9.98
+      },
+      {
+        "name": "Bonduelle Warzywa",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Bonduelle Warzywa",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Gumy Orbit Refresh.",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Prymat Przyprawy r.r",
+        "quantity": 1,
+        "unit_price": 1.59,
+        "total_price": 1.59
+      },
+      {
+        "name": "Bułka ziemn.z ziarn.",
+        "quantity": 2,
+        "unit_price": 1.35,
+        "total_price": 2.7
+      },
+      {
+        "name": "Bułka kukurydziana",
+        "quantity": 2,
+        "unit_price": 0.99,
+        "total_price": 1.98
+      },
+      {
+        "name": "Tortilla pełnoziar.",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      }
+    ],
+    "total": 144.39,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "102306",
+    "date": "2025-06-12",
+    "time": "16:41",
+    "products": [
+      {
+        "name": "Mleko 1,5% b.laktozy",
+        "quantity": 2,
+        "unit_price": 3.89,
+        "total_price": 7.78
+      },
+      {
+        "name": "KORAL ŚWIDEREK Lody",
+        "quantity": 2,
+        "unit_price": 2.99,
+        "total_price": 5.98
+      },
+      {
+        "name": "Papier toalet.rumian",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Brokuły 500g",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Kinder Joy",
+        "quantity": 3,
+        "unit_price": 5.49,
+        "total_price": 16.47
+      }
+    ],
+    "total": 46.21,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 4.76
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "69781",
+    "date": "2025-06-11",
+    "time": "21:07",
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "TYMBARK Napój 20% 11",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Ściereczki naw.80szt",
+        "quantity": 1,
+        "unit_price": 6.79,
+        "total_price": 6.79
+      },
+      {
+        "name": "NESQUIK Lody na pat.",
+        "quantity": 1,
+        "unit_price": 18.49,
+        "total_price": 18.49
+      },
+      {
+        "name": "Ryż biały 1kg",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "WILLISCH Lody w kub.",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 0.699,
+        "unit_price": 24.8,
+        "total_price": 17.34
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.512,
+        "unit_price": 21.98,
+        "total_price": 11.25
+      },
+      {
+        "name": "Mięso z nogi, kur...",
+        "quantity": 0.432,
+        "unit_price": 21.98,
+        "total_price": 9.5
+      },
+      {
+        "name": "Jogurt grecki 10%",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "SądeckiBartnik Miód2",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      },
+      {
+        "name": "Marchew młoda luz",
+        "quantity": 0.19,
+        "unit_price": 4.99,
+        "total_price": 0.95
+      },
+      {
+        "name": "Ogórki zielone luz",
+        "quantity": 0.194,
+        "unit_price": 9.99,
+        "total_price": 1.94
+      },
+      {
+        "name": "Awokado zielone szt.",
+        "quantity": 2,
+        "unit_price": 6.49,
+        "total_price": 12.98
+      },
+      {
+        "name": "Natka pietru. pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "Kinder Joy",
+        "quantity": 3,
+        "unit_price": 5.49,
+        "total_price": 16.47
+      },
+      {
+        "name": "Czosnek luz",
+        "quantity": 0.06,
+        "unit_price": 39.9,
+        "total_price": 2.39
+      },
+      {
+        "name": "Tymianek suszony",
+        "quantity": 1,
+        "unit_price": 1.39,
+        "total_price": 1.39
+      },
+      {
+        "name": "Marchew Mini/Groszek",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Cytryny luz",
+        "quantity": 0.19,
+        "unit_price": 9.99,
+        "total_price": 1.9
+      }
+    ],
+    "total": 173.56,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "99701",
+    "date": "2025-06-18",
+    "time": "15:35",
+    "products": [
+      {
+        "name": "Czekolada biała",
+        "quantity": 2,
+        "unit_price": 5.29,
+        "total_price": 10.58
+      },
+      {
+        "name": "Łosoś atlant. porcje",
+        "quantity": 1,
+        "unit_price": 44.9,
+        "total_price": 44.9
+      },
+      {
+        "name": "Mascarpone 250g",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Łaciata Śmietanka30%",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Mlekovita Masło",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Truskawki polsk...",
+        "quantity": 1.176,
+        "unit_price": 19.99,
+        "total_price": 23.51
+      }
+    ],
+    "total": 104.96,
+    "payment_method": "karta",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 1.98
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "54307",
+    "date": "2025-06-21",
+    "time": "12:32",
+    "products": [
+      {
+        "name": "ŻZ Woda niegaz. 1,51",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Mięta w doniczce",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "Masło Łowickie 82%",
+        "quantity": 3,
+        "unit_price": 7.49,
+        "total_price": 22.47
+      },
+      {
+        "name": "Kujawski Olej 3ziar.",
+        "quantity": 1,
+        "unit_price": 13.99,
+        "total_price": 13.99
+      },
+      {
+        "name": "Śliwki suszone b/p",
+        "quantity": 1,
+        "unit_price": 7.55,
+        "total_price": 7.55
+      },
+      {
+        "name": "Medaliony z fileta",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      },
+      {
+        "name": "Kaczka tuszka",
+        "quantity": 2.17,
+        "unit_price": 16.99,
+        "total_price": 36.87
+      },
+      {
+        "name": "Jabłka cz.Ligol 1...",
+        "quantity": 0.934,
+        "unit_price": 5.99,
+        "total_price": 5.59
+      },
+      {
+        "name": "Pomidory kokt.ki...",
+        "quantity": 0.26,
+        "unit_price": 14.99,
+        "total_price": 3.9
+      },
+      {
+        "name": "Mieszko MICHASZKI",
+        "quantity": 0.324,
+        "unit_price": 26.9,
+        "total_price": 8.72
+      },
+      {
+        "name": "Pomarańcze deser....",
+        "quantity": 0.312,
+        "unit_price": 6.99,
+        "total_price": 2.18
+      },
+      {
+        "name": "Cukinia luz",
+        "quantity": 0.856,
+        "unit_price": 3.99,
+        "total_price": 3.42
+      }
+    ],
+    "total": 138.57,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "50710",
+    "date": "2025-06-23",
+    "time": "15:31",
+    "products": [
+      {
+        "name": "Mięso mielone wołowe",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      },
+      {
+        "name": "Bułka Hamburger maxi",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Sałata rzymska 2szt.",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Pomidory kiścio.",
+        "quantity": 0.454,
+        "unit_price": 7.99,
+        "total_price": 3.63
+      },
+      {
+        "name": "Ogórki zielone luz",
+        "quantity": 0.204,
+        "unit_price": 3.99,
+        "total_price": 0.81
+      },
+      {
+        "name": "Jogurt natur. 200g",
+        "quantity": 1,
+        "unit_price": 1.05,
+        "total_price": 1.05
+      },
+      {
+        "name": "Knorr Sos sałatkowy",
+        "quantity": 1,
+        "unit_price": 1.49,
+        "total_price": 1.49
+      },
+      {
+        "name": "OSHEE Vit. Water 20%",
+        "quantity": 1,
+        "unit_price": 3.79,
+        "total_price": 3.79
+      }
+    ],
+    "total": 45.73,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "08,00%",
+      "amount": 0.63
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "100265",
+    "date": "2025-06-24",
+    "time": "16:11",
+    "products": [
+      {
+        "name": "Mokate Matcha Latte",
+        "quantity": 2,
+        "unit_price": 3.49,
+        "total_price": 6.98
+      },
+      {
+        "name": "Mięso mielone 700g",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      },
+      {
+        "name": "Oshee Vit. Tea",
+        "quantity": 1,
+        "unit_price": 3.19,
+        "total_price": 3.19
+      },
+      {
+        "name": "Lubella MakaronPióra",
+        "quantity": 1,
+        "unit_price": 5.19,
+        "total_price": 5.19
+      },
+      {
+        "name": "Ser tartyMac&cheese",
+        "quantity": 1,
+        "unit_price": 13.99,
+        "total_price": 13.99
+      },
+      {
+        "name": "Łowicz Sos pomidor.",
+        "quantity": 1,
+        "unit_price": 8.49,
+        "total_price": 8.49
+      },
+      {
+        "name": "TymbarkKompot eop20%",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Czereśnie, luz",
+        "quantity": 0.614,
+        "unit_price": 29.99,
+        "total_price": 18.41
+      },
+      {
+        "name": "Bób 500g",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      }
+    ],
+    "total": 100.22,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23,00%",
+      "amount": 1.9
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "397204",
+    "date": "2025-06-26",
+    "time": "17:12",
+    "products": [
+      {
+        "name": "OSHEE Vit. Water 20%",
+        "quantity": 2,
+        "unit_price": 3.79,
+        "total_price": 7.58
+      },
+      {
+        "name": "Papier toalet.dzieci",
+        "quantity": 1,
+        "unit_price": 4.79,
+        "total_price": 4.79
+      },
+      {
+        "name": "WK Dzik Wafle kukur.",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Pudlisz.Ketchup smak",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "Kiełb.biała z szynki",
+        "quantity": 1,
+        "unit_price": 11.99,
+        "total_price": 11.99
+      },
+      {
+        "name": "Bochen rustykalny",
+        "quantity": 1,
+        "unit_price": 6.29,
+        "total_price": 6.29
+      }
+    ],
+    "total": 47.13,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "82975",
+    "date": "2025-06-26",
+    "time": "19:56",
+    "products": [
+      {
+        "name": "Krem. mydło refill 1",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Sorbet 473ml",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Sorbet 473ml",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "WK Dzik Wafle kukur.",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "Papier toalet.rumian",
+        "quantity": 2,
+        "unit_price": 8.99,
+        "total_price": 17.98
+      },
+      {
+        "name": "Lidl Plus kupon",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": -9
+      },
+      {
+        "name": "Ananas luz",
+        "quantity": 1.36,
+        "unit_price": 6.99,
+        "total_price": 9.51
+      }
+    ],
+    "total": 53.45,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "101388",
+    "date": "2025-07-04",
+    "time": "13:40",
+    "products": [
+      {
+        "name": "Hot-dog z parówką",
+        "quantity": 2,
+        "unit_price": 3.29,
+        "total_price": 6.58
+      },
+      {
+        "name": "Bułka Hamburger maxi",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Mięso mielone wołowe",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      },
+      {
+        "name": "Turek Camembert",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Żuraw./Borów.konfit.",
+        "quantity": 1,
+        "unit_price": 8.39,
+        "total_price": 8.39
+      },
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 1,
+        "unit_price": 2.69,
+        "total_price": 2.69
+      },
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 5,
+        "unit_price": 2.69,
+        "total_price": 13.45
+      }
+    ],
+    "total": 59.7,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "101278",
+    "date": "2025-07-03",
+    "time": "13:02",
+    "products": [
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 1,
+        "unit_price": 24.8,
+        "total_price": 19.24
+      },
+      {
+        "name": "DZIK Napój energ. 2",
+        "quantity": 1,
+        "unit_price": 5.49,
+        "total_price": 5.49
+      },
+      {
+        "name": "Ziemniak.wczes.po...",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 3.17
+      },
+      {
+        "name": "Orbit, Winterfresh",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Cebula żółta luz",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 0.4
+      },
+      {
+        "name": "Czereśnie, luz",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 12.43
+      }
+    ],
+    "total": 42.27,
+    "payment_method": "karta",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "58695",
+    "date": "2025-06-27",
+    "time": "16:08",
+    "products": [
+      {
+        "name": "Tdo Koncentrat",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "Ściereczki naw.80szt",
+        "quantity": 1,
+        "unit_price": 6.79,
+        "total_price": 6.79
+      },
+      {
+        "name": "Bób 500g",
+        "quantity": 2,
+        "unit_price": 24.99,
+        "total_price": 49.98
+      },
+      {
+        "name": "Oral-B Szczoteczki",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.622,
+        "unit_price": 21.98,
+        "total_price": 13.67
+      },
+      {
+        "name": "Mięso z nogi, ku...",
+        "quantity": 0.586,
+        "unit_price": 21.98,
+        "total_price": 12.88
+      },
+      {
+        "name": "Ryż biały 1kg",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Konc.napoju DROP IN",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      },
+      {
+        "name": "Mleczko kokosowe",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Czereśnie, luz",
+        "quantity": 0.524,
+        "unit_price": 29.99,
+        "total_price": 15.71
+      },
+      {
+        "name": "Cytryny luz",
+        "quantity": 0.366,
+        "unit_price": 9.99,
+        "total_price": 3.66
+      },
+      {
+        "name": "Szczypiorek pęczek",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      }
+    ],
+    "total": 183.27,
+    "payment_method": "Karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "101486",
+    "date": "2025-07-05",
+    "time": "10:22",
+    "products": [
+      {
+        "name": "Bułka Hamburger maxi",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Turek Camembert",
+        "quantity": 3,
+        "unit_price": 7.29,
+        "total_price": 21.87
+      },
+      {
+        "name": "Czereśnie, luz",
+        "quantity": 0.554,
+        "unit_price": 16.99,
+        "total_price": 9.41
+      },
+      {
+        "name": "Mięso mielone wołowe",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      },
+      {
+        "name": "Wielkop.olej rzep.",
+        "quantity": 1,
+        "unit_price": 8.49,
+        "total_price": 8.49
+      },
+      {
+        "name": "Frytki dług. cienkie",
+        "quantity": 1,
+        "unit_price": 9.59,
+        "total_price": 9.59
+      }
+    ],
+    "total": 71.34,
+    "payment_method": "karta",
+    "currency": "PLN",
+    "vat": {
+      "rate": "05,00%",
+      "amount": 3.4
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "75452",
+    "date": "2025-07-07",
+    "time": "16:27",
+    "products": [
+      {
+        "name": "Lody Kaktus POP!8+1",
+        "quantity": 1,
+        "unit_price": 18.49,
+        "total_price": 18.49
+      },
+      {
+        "name": "WILLISCH Lody, kubek",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "DZIK Napój energ. 1",
+        "quantity": 1,
+        "unit_price": 5.49,
+        "total_price": 5.49
+      },
+      {
+        "name": "Cola0, Fanta0, Sprite0",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Lipton Ice Tea1,5L",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      }
+    ],
+    "total": 59.25,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23%",
+      "amount": 3.32
+    }
+  },
+  {
+    "store_name": "Lidl",
+    "store_address": "Poznańska 48, Jankowice\n62-080 Tarnowo Podgórne",
+    "nip": null,
+    "receipt_number": "108420",
+    "date": "2025-07-10",
+    "time": "06:30",
+    "products": [
+      {
+        "name": "Orbit, Winterfresh",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 1,
+        "unit_price": 2.69,
+        "total_price": 2.69
+      },
+      {
+        "name": "Marchew Mini/Groszek",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Ziemniak.wczes.po...",
+        "quantity": 0.836,
+        "unit_price": 1.49,
+        "total_price": 1.25
+      },
+      {
+        "name": "Krasnystaw Kefir 2%",
+        "quantity": 6,
+        "unit_price": 2.89,
+        "total_price": 17.34
+      },
+      {
+        "name": "Filet z kurczaka",
+        "quantity": 0.87,
+        "unit_price": 24.8,
+        "total_price": 21.58
+      },
+      {
+        "name": "Pure Filet z kurcz.",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Bio Hummus",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "Bułka ziemniaczana 2",
+        "quantity": 2,
+        "unit_price": 1.14,
+        "total_price": 2.28
+      },
+      {
+        "name": "Banany luz",
+        "quantity": 0.542,
+        "unit_price": 6.99,
+        "total_price": 3.79
+      }
+    ],
+    "total": 69.89,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23,00%",
+      "amount": 0.5
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": "43786",
+    "date": "2025-07-10",
+    "time": "17:43",
+    "products": [
+      {
+        "name": "Nałęczowianka niegaz",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Woda mocny gaz 1,51",
+        "quantity": 6,
+        "unit_price": 2.69,
+        "total_price": 16.14
+      },
+      {
+        "name": "Ciastka FITKING",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "Jalapeno w plastrach",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Burrata z Włoch",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "Kinder Joy",
+        "quantity": 2,
+        "unit_price": 5.49,
+        "total_price": 10.98
+      },
+      {
+        "name": "Mini Tortilla pszen.",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "Pstrąg tęczowy",
+        "quantity": 0.544,
+        "unit_price": 57.9,
+        "total_price": 31.5
+      },
+      {
+        "name": "Konc.napoju DROP IN",
+        "quantity": 1,
+        "unit_price": 19.99,
+        "total_price": 19.99
+      },
+      {
+        "name": "Ser gouda plastry300",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Schab wędzony",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Serek kozi",
+        "quantity": 2,
+        "unit_price": 6.29,
+        "total_price": 12.58
+      },
+      {
+        "name": "Tarczyński Parówki",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "WiniaryMajonez lekki",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "Tuńczyk 3pak sos wł.",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "Ściereczki nawil.XXL",
+        "quantity": 1,
+        "unit_price": 6.49,
+        "total_price": 6.49
+      },
+      {
+        "name": "Bajgiel z makiem",
+        "quantity": 5,
+        "unit_price": 1.99,
+        "total_price": 9.95
+      }
+    ],
+    "total": 183.34,
+    "payment_method": "karta płatnicza",
+    "currency": "PLN",
+    "vat": {
+      "rate": "23,00%",
+      "amount": 7.13
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-03-31",
+    "time": null,
+    "products": [
+      {
+        "name": "MLE SER CHEDDA 300 C",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "MLE SER CHEDDA 300 C",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "TAR PARÓW CHED 180 C",
+        "quantity": 1,
+        "unit_price": 5.95,
+        "total_price": 5.95
+      },
+      {
+        "name": "TAR NATU PARÓW 160 C",
+        "quantity": 1,
+        "unit_price": 6.85,
+        "total_price": 6.85
+      },
+      {
+        "name": "BARIL MAK RIGA 500 C",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "ROLN FASOL 400 CZA C",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "DRO FILET Z KURCZ C",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "DRO FILET Z KURCZ C",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      },
+      {
+        "name": "MIĘSO MIEL WIE 400 C",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "NAĆ PIETRUSZKI SZT C",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "POMIDORY MALINOWE C",
+        "quantity": 0.66,
+        "unit_price": 12.53,
+        "total_price": 12.53
+      },
+      {
+        "name": "SZYNKA WIEPRZ B/K C",
+        "quantity": 0.7,
+        "unit_price": 15.11,
+        "total_price": 15.11
+      },
+      {
+        "name": "POMIDORY ŚLIW CZER C",
+        "quantity": 0.26,
+        "unit_price": 4.16,
+        "total_price": 4.16
+      },
+      {
+        "name": "OGÓRKI SZKLAR KRÓTKC",
+        "quantity": 0.2,
+        "unit_price": 1.57,
+        "total_price": 1.57
+      },
+      {
+        "name": "WM B/HOT DOG 250 C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "WM B/HOT DOG 250 C",
+        "quantity": 2,
+        "unit_price": 9.98,
+        "total_price": 9.98
+      },
+      {
+        "name": "BAK JOG GĘSTY 370 C",
+        "quantity": 2,
+        "unit_price": 6.58,
+        "total_price": 6.58
+      },
+      {
+        "name": "GREEK JOG NAT 340 C",
+        "quantity": 1,
+        "unit_price": 3.29,
+        "total_price": 3.29
+      },
+      {
+        "name": "MOR SZYNKA 200 C",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": 10.99
+      },
+      {
+        "name": "MLEKPOL TWARÓG 250 C",
+        "quantity": 1,
+        "unit_price": 5.79,
+        "total_price": 5.79
+      },
+      {
+        "name": "MLE ŁACI SEREK 135 C",
+        "quantity": 2,
+        "unit_price": 7.38,
+        "total_price": 7.38
+      },
+      {
+        "name": "WOSEBA DOLN MĄKA 1 C",
+        "quantity": 1,
+        "unit_price": 2.89,
+        "total_price": 2.89
+      },
+      {
+        "name": "MON OLIWA CLAS 500 C",
+        "quantity": 1,
+        "unit_price": 31.99,
+        "total_price": 31.99
+      },
+      {
+        "name": "KAMIS KOLEND LIŚ 6 C",
+        "quantity": 1,
+        "unit_price": 2.63,
+        "total_price": 2.63
+      },
+      {
+        "name": "KAMIS ZIOŁA WŁO 10 B",
+        "quantity": 1,
+        "unit_price": 1.99,
+        "total_price": 1.99
+      },
+      {
+        "name": "BON GROSZ DROB 160 C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "CYTRYNY C",
+        "quantity": 0.68,
+        "unit_price": 6.13,
+        "total_price": 6.13
+      },
+      {
+        "name": "GRANAT SZT C",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 4.49
+      },
+      {
+        "name": "KRAS SER GRILL 200 C",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "WM DŁUGOP 0.7 4 A",
+        "quantity": 1,
+        "unit_price": 2.59,
+        "total_price": 2.59
+      },
+      {
+        "name": "FERR KIND 100 A",
+        "quantity": 1,
+        "unit_price": 6.79,
+        "total_price": 6.79
+      },
+      {
+        "name": "MLE ŁAC MASŁO 200 C",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "MIL CZEKO TUC 87G A",
+        "quantity": 1,
+        "unit_price": 5.25,
+        "total_price": 5.25
+      },
+      {
+        "name": "FERR KIND 100 A",
+        "quantity": 1,
+        "unit_price": 6.79,
+        "total_price": 6.79
+      },
+      {
+        "name": "WEDE CZEKO 90 MLE A",
+        "quantity": 1,
+        "unit_price": 5.49,
+        "total_price": 5.49
+      },
+      {
+        "name": "SCHOG CZEKO GO 100 A",
+        "quantity": 1,
+        "unit_price": 4.89,
+        "total_price": 4.89
+      },
+      {
+        "name": "MIL CZEKO BIAŁA 90 A",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "MIL CZEKO BIAŁA 90 A",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "HOR WIŚNIE B/P 450 C",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      }
+    ],
+    "total": 334.29,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-04-22",
+    "time": "10:32",
+    "products": [
+      {
+        "name": "HOA OCET RYŻ 150 A",
+        "quantity": 1,
+        "unit_price": 6.29,
+        "total_price": 6.29
+      },
+      {
+        "name": "HOA SOS MIRIN 200 A",
+        "quantity": 1,
+        "unit_price": 13.49,
+        "total_price": 13.49
+      },
+      {
+        "name": "FELIX PAST ORZ 600 C",
+        "quantity": 1,
+        "unit_price": 29.99,
+        "total_price": 29.99
+      },
+      {
+        "name": "HAC SOS SOJOWY JASNB",
+        "quantity": 1,
+        "unit_price": 4.89,
+        "total_price": 4.89
+      },
+      {
+        "name": "HOA LIŚCIE ALG 15 C",
+        "quantity": 1,
+        "unit_price": 7.69,
+        "total_price": 7.69
+      },
+      {
+        "name": "MARCHEW C",
+        "quantity": 0.17,
+        "unit_price": 0.33,
+        "total_price": 0.33
+      },
+      {
+        "name": "HOA MAK RAMEN 300 C",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "MIĘSO GARMAŻER 450 C",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "REKLAMÓWKA E.LECLERA",
+        "quantity": 1,
+        "unit_price": 0.65,
+        "total_price": 0.65
+      }
+    ],
+    "total": 80.61,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-04-30",
+    "time": null,
+    "products": [
+      {
+        "name": "LECH FREE BZW 500 A",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 4.49
+      },
+      {
+        "name": "BUTEL 0.5 KP PCB12 A",
+        "quantity": 1,
+        "unit_price": 1,
+        "total_price": 1
+      },
+      {
+        "name": "LECH APPL BZW 500 C",
+        "quantity": 1,
+        "unit_price": 4.19,
+        "total_price": 4.19
+      },
+      {
+        "name": "BUTEL 0.5 KP PCB12 A",
+        "quantity": 1,
+        "unit_price": 1,
+        "total_price": 1
+      },
+      {
+        "name": "WOSEBA DOLN MAKA 1 C",
+        "quantity": 1,
+        "unit_price": 2.89,
+        "total_price": 2.89
+      },
+      {
+        "name": "PUDL POM KROJ 400 C",
+        "quantity": 1,
+        "unit_price": 4.18,
+        "total_price": 4.18
+      },
+      {
+        "name": "PUDL POM KROJ 400 C",
+        "quantity": 1,
+        "unit_price": 4.18,
+        "total_price": 4.18
+      },
+      {
+        "name": "MOR KIEŁB MORL 400 C",
+        "quantity": 1,
+        "unit_price": 10.75,
+        "total_price": 10.75
+      },
+      {
+        "name": "MU MLEKO 1.5% 1 C",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "ŁACIATY TWARÓG 250 C",
+        "quantity": 1,
+        "unit_price": 4.79,
+        "total_price": 4.79
+      },
+      {
+        "name": "ŁACIATY TWARÓG 250 C",
+        "quantity": 1,
+        "unit_price": 4.79,
+        "total_price": 4.79
+      },
+      {
+        "name": "PIĄT ŚMIET 12% 400 C",
+        "quantity": 1,
+        "unit_price": 3.49,
+        "total_price": 3.49
+      },
+      {
+        "name": "EXCELL CZEKOL 50 A",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "PUDL KONC 30% 90 C",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "PIECZARKI BIAŁ500G C",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "OKOCI GRA PU 500 C",
+        "quantity": 1,
+        "unit_price": 4.19,
+        "total_price": 4.19
+      },
+      {
+        "name": "RADLER PU 500 C",
+        "quantity": 1,
+        "unit_price": 4.19,
+        "total_price": 4.19
+      },
+      {
+        "name": "PERWOL PŁYN PR 3 A",
+        "quantity": 1,
+        "unit_price": 49.99,
+        "total_price": 49.99
+      },
+      {
+        "name": "KRET GRANULKI 280 A",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "LUDW PŁYN D/N 900 A",
+        "quantity": 1,
+        "unit_price": 8.49,
+        "total_price": 8.49
+      },
+      {
+        "name": "CIF MLECZ LILA 780 A",
+        "quantity": 1,
+        "unit_price": 14.29,
+        "total_price": 14.29
+      },
+      {
+        "name": "BELLA PERF PODP 10 C",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "PRESTO ŚCIER NA 72 A",
+        "quantity": 1,
+        "unit_price": 9.89,
+        "total_price": 9.89
+      },
+      {
+        "name": "PRESTO ŚCIER NA 72 A",
+        "quantity": 1,
+        "unit_price": 9.89,
+        "total_price": 9.89
+      },
+      {
+        "name": "PAPRYKA CZERWONA C",
+        "quantity": 0.44,
+        "unit_price": 4.36,
+        "total_price": 4.36
+      },
+      {
+        "name": "CUKINIA ZIELONA C",
+        "quantity": 0.39,
+        "unit_price": 1.93,
+        "total_price": 1.93
+      },
+      {
+        "name": "PAPRYKA POMARAŃCZO C",
+        "quantity": 0.49,
+        "unit_price": 6.37,
+        "total_price": 6.37
+      },
+      {
+        "name": "ZIEMNIAKI JADALNE C",
+        "quantity": 2.1,
+        "unit_price": 5.22,
+        "total_price": 5.22
+      },
+      {
+        "name": "WĘZEŁEK Z MAKIEM 10C",
+        "quantity": 3,
+        "unit_price": 5.97,
+        "total_price": 5.97
+      }
+    ],
+    "total": 218.47,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-05-13",
+    "time": null,
+    "products": [
+      {
+        "name": "ACTIV NAP SAKU 500 C",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": null
+      },
+      {
+        "name": "ACTIV NAP MELO 500 C",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": null
+      },
+      {
+        "name": "ACTIV NAP BONG 500 C",
+        "quantity": 1,
+        "unit_price": 3.89,
+        "total_price": null
+      },
+      {
+        "name": "KRÓLEWS CUKIER 400 B",
+        "quantity": 1,
+        "unit_price": 3.29,
+        "total_price": null
+      },
+      {
+        "name": "MEL SKROBI ZIEMN 1C",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": null
+      },
+      {
+        "name": "ŁACIATE ŚMIЕТА 500 С",
+        "quantity": 1,
+        "unit_price": 11.49,
+        "total_price": null
+      },
+      {
+        "name": "MLE MASŁO POLS 200 C",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": null
+      }
+    ],
+    "total": 45.43,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-05-28",
+    "time": "10:34",
+    "products": [
+      {
+        "name": "INKA MLECZNA 200G B",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "INKA KAWA KOK 200 B",
+        "quantity": 1,
+        "unit_price": 8.89,
+        "total_price": 8.89
+      },
+      {
+        "name": "KOTAN PAPR OSTR 22 B",
+        "quantity": 1,
+        "unit_price": 1.89,
+        "total_price": 1.89
+      },
+      {
+        "name": "KOTAN CHILI WĘDZ 8 B",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "KOTAN PIEP CAYE 20 B",
+        "quantity": 1,
+        "unit_price": 1.99,
+        "total_price": 1.99
+      },
+      {
+        "name": "KOTAN CHILI PŁAT 8 B",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "KOTAN PIEP CAYE 20 B",
+        "quantity": 1,
+        "unit_price": 1.99,
+        "total_price": 1.99
+      },
+      {
+        "name": "PRYM PRZYPR GAR 20 B",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "KOTAN PAPR SŁOD 22 B",
+        "quantity": 1,
+        "unit_price": 1.89,
+        "total_price": 1.89
+      },
+      {
+        "name": "KOTAN PIEP CAYE 20 B",
+        "quantity": 1,
+        "unit_price": 1.99,
+        "total_price": 1.99
+      },
+      {
+        "name": "PRYM PRZYPR GAR 20 B",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "name": "KOTAN PAPR SŁOD 22 B",
+        "quantity": 1,
+        "unit_price": 1.89,
+        "total_price": 1.89
+      },
+      {
+        "name": "BAK JOG GĘSTY 370 C",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "WM MASCARPONE 250 C",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "ŁOWICZ MASŁO 200 C",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "WM JAJA ŚCIÓM 10X C",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "MLE ŁACI ŚMIET 500 C",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "MIL CZEKO BIAŁA 90 A",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "MIL CZEKO BIAŁA 90 A",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      }
+    ],
+    "total": 88.04,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-06-02",
+    "time": null,
+    "products": [
+      {
+        "name": "CZEKOLADOWO-WIŚNIOWC",
+        "quantity": 0.31,
+        "unit_price": null,
+        "total_price": 10.78
+      },
+      {
+        "name": "EKLER GREJFRUTOWY B",
+        "quantity": 2,
+        "unit_price": null,
+        "total_price": 7.98
+      },
+      {
+        "name": "COCA COLA B/KO 850 A",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.99
+      },
+      {
+        "name": "TAR PARÓW INDY 160 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.45
+      },
+      {
+        "name": "TAR PARÓW CHED 180 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 5.99
+      },
+      {
+        "name": "WĘZEŁEK Z MAKIEM 10C",
+        "quantity": 4,
+        "unit_price": null,
+        "total_price": 7.96
+      },
+      {
+        "name": "MOR POLĘD SOPO 100 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.39
+      },
+      {
+        "name": "POMIDORY MALINOWE C",
+        "quantity": 0.46,
+        "unit_price": null,
+        "total_price": 3.22
+      },
+      {
+        "name": "BROKUŁ SZT C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.99
+      },
+      {
+        "name": "PAPRYKA RAM CZE200 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.99
+      },
+      {
+        "name": "LIPTON GREEN 1.5 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 5.49
+      },
+      {
+        "name": "LIPTON GREEN 1.5 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 5.49
+      },
+      {
+        "name": "MLE ŁACI ŚMIET 500 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.89
+      },
+      {
+        "name": "SIER SER KRÓL 135 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 6.49
+      },
+      {
+        "name": "WŁOSZCZ SER 150 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 5.49
+      },
+      {
+        "name": "MLE ŁACI SEREK 135 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 3.99
+      },
+      {
+        "name": "MLE ŁACI SEREK 135 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 3.99
+      },
+      {
+        "name": "KNO BULIO ROSÓ 120 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 4.69
+      },
+      {
+        "name": "PUDL KONC 30% 90 C",
+        "quantity": 2,
+        "unit_price": null,
+        "total_price": 5.98
+      },
+      {
+        "name": "MLE ŁACI SEREK 135 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 3.99
+      },
+      {
+        "name": "KNO BULIO ROSÓ 120 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 4.69
+      },
+      {
+        "name": "PUDL KONC 30% 90 C",
+        "quantity": 2,
+        "unit_price": null,
+        "total_price": 5.98
+      },
+      {
+        "name": "ARBUZ C",
+        "quantity": 0.98,
+        "unit_price": null,
+        "total_price": 5.88
+      },
+      {
+        "name": "ĆWIARTKA KURCZAKA C",
+        "quantity": 1.37,
+        "unit_price": null,
+        "total_price": 15.08
+      },
+      {
+        "name": "MLE ŁACI SEREK 135 C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 3.99
+      },
+      {
+        "name": "KAPUSTA CZERWONA C",
+        "quantity": 0.72,
+        "unit_price": null,
+        "total_price": 5.06
+      },
+      {
+        "name": "MANGO SZT C",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": 4.99
+      },
+      {
+        "name": "LIMONKI SZT C",
+        "quantity": 2,
+        "unit_price": null,
+        "total_price": 2.98
+      },
+      {
+        "name": "OGÓRKI SZKLAR KRÓTKC",
+        "quantity": 0.19,
+        "unit_price": null,
+        "total_price": 0.94
+      }
+    ],
+    "total": 157.16,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-06-07",
+    "time": null,
+    "products": [
+      {
+        "name": "COCA COLA B/KO 850 A",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": null
+      },
+      {
+        "name": "JACOBS BEZKOF 250 A",
+        "quantity": 1,
+        "unit_price": 16.29,
+        "total_price": null
+      },
+      {
+        "name": "SCHUL HAMBURG 328 C",
+        "quantity": 1,
+        "unit_price": 8.29,
+        "total_price": null
+      },
+      {
+        "name": "JAN WOR HD 60L 18 A",
+        "quantity": 2,
+        "unit_price": 19.98,
+        "total_price": null
+      },
+      {
+        "name": "MU MLEKO 1.5% 1 С",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": null
+      },
+      {
+        "name": "VELV PAPIER NAW 48 A",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": null
+      }
+    ],
+    "total": 63.03,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-06-14",
+    "time": null,
+    "products": [
+      {
+        "name": "WILLISCH LODY 465 C",
+        "quantity": 1,
+        "unit_price": 28.99,
+        "total_price": 28.99
+      },
+      {
+        "name": "WILLISCH LODY 465 C",
+        "quantity": 1,
+        "unit_price": 28.99,
+        "total_price": 28.99
+      },
+      {
+        "name": "PRYM CZOSN SUSZ 50 C",
+        "quantity": 2,
+        "unit_price": 5.18,
+        "total_price": 5.18
+      },
+      {
+        "name": "KOTAN PIEP CAYE 20 B",
+        "quantity": 2,
+        "unit_price": 3.98,
+        "total_price": 3.98
+      },
+      {
+        "name": "KOTAN PAPR SLOD 22 B",
+        "quantity": 2,
+        "unit_price": 5.38,
+        "total_price": 5.38
+      },
+      {
+        "name": "KOTAN ZIOL PROW 11 B",
+        "quantity": 1,
+        "unit_price": 2.69,
+        "total_price": 2.69
+      },
+      {
+        "name": "SOMERSBY BBZ 400 C",
+        "quantity": 1,
+        "unit_price": 5.59,
+        "total_price": 5.59
+      },
+      {
+        "name": "SOMERSBY BU BZ 400 C",
+        "quantity": 1,
+        "unit_price": 5.59,
+        "total_price": 5.59
+      },
+      {
+        "name": "COCA COLA B/KO 850 A",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "SG JARMUZ MYT200G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "PUDL POM CZOS 390 C",
+        "quantity": 1,
+        "unit_price": 6.59,
+        "total_price": 6.59
+      },
+      {
+        "name": "SG RUKOLA MY100G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "WM BOCZEK PLAS 100 C",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "ELP SALAMI HISZ 80 C",
+        "quantity": 1,
+        "unit_price": 10.49,
+        "total_price": 10.49
+      },
+      {
+        "name": "GRAND SER KREM 100 C",
+        "quantity": 1,
+        "unit_price": 4.79,
+        "total_price": 4.79
+      },
+      {
+        "name": "DRO FILET Z KURCZ C",
+        "quantity": 1,
+        "unit_price": 18.99,
+        "total_price": 18.99
+      },
+      {
+        "name": "PAPRYKA RAM CZE500 C",
+        "quantity": 1,
+        "unit_price": 12.99,
+        "total_price": 12.99
+      },
+      {
+        "name": "CEBULA ŻÓŁTA C",
+        "quantity": 0.15,
+        "unit_price": 0.73,
+        "total_price": 0.73
+      },
+      {
+        "name": "CEBULA CZERWONA C",
+        "quantity": 0.12,
+        "unit_price": 0.93,
+        "total_price": 0.93
+      }
+    ],
+    "total": 201.29,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-06-16",
+    "time": null,
+    "products": [
+      {
+        "name": "OLE ENJ KABANOS 90 C",
+        "quantity": 1,
+        "unit_price": 4.69,
+        "total_price": 4.69
+      },
+      {
+        "name": "JAJA Z WOLNEGO WYBIC",
+        "quantity": 1,
+        "unit_price": 22.99,
+        "total_price": 22.99
+      },
+      {
+        "name": "SG SZPINAK MY200G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "SG SZPINAK MY200G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "POL TOFU KLASY 385 B",
+        "quantity": 1,
+        "unit_price": 9.49,
+        "total_price": 9.49
+      },
+      {
+        "name": "MANGO SZT C",
+        "quantity": 2,
+        "unit_price": 12.98,
+        "total_price": 12.98
+      },
+      {
+        "name": "OGÓRKI SZKLAR KRÓT C",
+        "quantity": 0,
+        "unit_price": 3,
+        "total_price": 3
+      },
+      {
+        "name": "RZODKIEW PĘCZ SZT C",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "name": "AWOKADO ZIELON RTE C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "COCA COLA B/KO 850 A",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "MLE SER CHEDDA 300 C",
+        "quantity": 1,
+        "unit_price": 9.99,
+        "total_price": 9.99
+      },
+      {
+        "name": "PIECZARKI BŁ ŚWIEŻ C",
+        "quantity": 0,
+        "unit_price": 6.47,
+        "total_price": 6.47
+      },
+      {
+        "name": "POL MŁ MĄK PSZEN 1 C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "SG SZPINAK MY200G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "SG JARMUŻ MYT200G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "PUDL POM CZOS 390 C",
+        "quantity": 1,
+        "unit_price": 6.59,
+        "total_price": 6.59
+      },
+      {
+        "name": "SG RUKOLA MY100G C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "WM BOCZEK PLAS 100 C",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "ELP SALAMI HISZ 80 C",
+        "quantity": 1,
+        "unit_price": 10.49,
+        "total_price": 10.49
+      },
+      {
+        "name": "PIECZARKI BIAŁ500G C",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "name": "CEBULA CZERWONA C",
+        "quantity": 0,
+        "unit_price": 0.83,
+        "total_price": 0.83
+      },
+      {
+        "name": "PAPRYKA CZERWONA C",
+        "quantity": 0,
+        "unit_price": 4.28,
+        "total_price": 4.28
+      },
+      {
+        "name": "LIMONKI SZT C",
+        "quantity": 1,
+        "unit_price": 1.49,
+        "total_price": 1.49
+      },
+      {
+        "name": "MARCHEW C",
+        "quantity": 0,
+        "unit_price": 2.28,
+        "total_price": 2.28
+      },
+      {
+        "name": "SAŁATA LODOWA SZT C",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "name": "FANTA ZER SHOK 850 A",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "FANTA LEMO ZER 850 A",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      },
+      {
+        "name": "DILM MANDARYNKA 30 A",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "DILM JAG WANIL 30 A",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "DILM JAG WANIL 30 A",
+        "quantity": 1,
+        "unit_price": 7.99,
+        "total_price": 7.99
+      },
+      {
+        "name": "MK KAWA MIE BK 250 A",
+        "quantity": 1,
+        "unit_price": 24.99,
+        "total_price": 24.99
+      },
+      {
+        "name": "HOA EKSTR KOK 400 B",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "KRAS SER GRILL 200 C",
+        "quantity": 1,
+        "unit_price": 6.49,
+        "total_price": 6.49
+      },
+      {
+        "name": "KRAS SER GRILL 200 C",
+        "quantity": 1,
+        "unit_price": 6.49,
+        "total_price": 6.49
+      },
+      {
+        "name": "TUR KOZI ŁAGOD 150 C",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      },
+      {
+        "name": "MOR SZYN KURCZ 200 C",
+        "quantity": 1,
+        "unit_price": 7.79,
+        "total_price": 7.79
+      },
+      {
+        "name": "TAR PARÓW CHED 180 C",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "name": "TAR PARÓW KURC 180 C",
+        "quantity": 1,
+        "unit_price": 5.98,
+        "total_price": 5.98
+      },
+      {
+        "name": "TUR KOZI ŁAGOD 150 C",
+        "quantity": 1,
+        "unit_price": 7.29,
+        "total_price": 7.29
+      }
+    ],
+    "total": 201.23,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-07-05",
+    "time": null,
+    "products": [
+      {
+        "name": "KAKTUS SWE-SOU 405 C",
+        "quantity": 1,
+        "unit_price": 15.99,
+        "total_price": 15.99
+      },
+      {
+        "name": "GRYCAN SORBET 500 C",
+        "quantity": 1,
+        "unit_price": 14.99,
+        "total_price": 14.99
+      },
+      {
+        "name": "TAR PARÓW INDY 160 C",
+        "quantity": 1,
+        "unit_price": 6.45,
+        "total_price": 6.45
+      },
+      {
+        "name": "MLEKPOL SER 150 C",
+        "quantity": 1,
+        "unit_price": 5.79,
+        "total_price": 5.79
+      },
+      {
+        "name": "MOR SZYM KURCZ 200 C",
+        "quantity": 1,
+        "unit_price": 8.19,
+        "total_price": 8.19
+      },
+      {
+        "name": "JACOBS BEZKOF 250 A",
+        "quantity": 1,
+        "unit_price": 21.99,
+        "total_price": 21.99
+      },
+      {
+        "name": "BÓB 1KG C",
+        "quantity": 1,
+        "unit_price": 13.99,
+        "total_price": 13.99
+      },
+      {
+        "name": "MU MLEKO 1.5% 1 C",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "name": "OLE KABAN FILE 105 C",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "ZIAJA KOK MLEC 500 A",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "name": "KAJZERKA 60G C",
+        "quantity": 4,
+        "unit_price": 2.36,
+        "total_price": 2.36
+      }
+    ],
+    "total": 111.72,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  },
+  {
+    "store_name": null,
+    "store_address": null,
+    "nip": null,
+    "receipt_number": null,
+    "date": "2025-07-08",
+    "time": "10:36",
+    "products": [
+      {
+        "name": "PTYSIE NADZIEWANE LC",
+        "quantity": 0.18,
+        "unit_price": 6.12,
+        "total_price": null
+      },
+      {
+        "name": "TAR PARÓW CHED 180 C",
+        "quantity": 1,
+        "unit_price": 6.45,
+        "total_price": null
+      },
+      {
+        "name": "SEM PASTA GOCH 170 B",
+        "quantity": 1,
+        "unit_price": 9.89,
+        "total_price": null
+      },
+      {
+        "name": "MLE SER FAVITA 270 C",
+        "quantity": 1,
+        "unit_price": 4.39,
+        "total_price": null
+      },
+      {
+        "name": "KUP RYŻ BIAŁY 1 C",
+        "quantity": 1,
+        "unit_price": 7.59,
+        "total_price": null
+      },
+      {
+        "name": "ŁOSOŚ FILET Z/S C",
+        "quantity": 0.62,
+        "unit_price": 49.13,
+        "total_price": null
+      },
+      {
+        "name": "MANGO SZT C",
+        "quantity": 2,
+        "unit_price": 10.98,
+        "total_price": null
+      },
+      {
+        "name": "AWOKADO ZIELON SZT C",
+        "quantity": 2,
+        "unit_price": 9.98,
+        "total_price": null
+      },
+      {
+        "name": "OGÓRKI SZK DŁU SZT C",
+        "quantity": 1,
+        "unit_price": 10.99,
+        "total_price": null
+      },
+      {
+        "name": "KNO SOS WŁOSKI 8 B",
+        "quantity": 1,
+        "unit_price": 1.49,
+        "total_price": null
+      },
+      {
+        "name": "CYTRYNY C",
+        "quantity": 0.13,
+        "unit_price": 1.58,
+        "total_price": null
+      },
+      {
+        "name": "MARCHEW C",
+        "quantity": 0.11,
+        "unit_price": 0.4,
+        "total_price": null
+      }
+    ],
+    "total": 118.99,
+    "payment_method": null,
+    "currency": "PLN",
+    "vat": {
+      "rate": null,
+      "amount": null
+    }
+  }
+]

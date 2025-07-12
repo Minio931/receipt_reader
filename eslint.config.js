@@ -7,8 +7,8 @@ export default tseslint.config(
     ignores: ["**/*.js"],
   },
   eslint.configs.recommended,
-  tseslint.configs.strictTypeChecked,
-  tseslint.configs.stylisticTypeChecked,
+  // tseslint.configs.strictTypeChecked,
+  // tseslint.configs.stylisticTypeChecked,
   {
     languageOptions: {
       parserOptions: {

@@ -1,3 +1,3 @@
-export type ProcessReceiptDTO = {
+export interface ProcessReceiptDTO {
   file: Buffer;
-};
+}

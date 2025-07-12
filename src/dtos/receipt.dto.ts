@@ -3,16 +3,16 @@ import { ReceiptVat } from "@/types/receipt-vat.type";
 
 export class ReceiptDTO {
   constructor(
-    public store_name: string,
-    public store_address: string,
-    public nip: string | null,
-    public receipt_number: string,
-    public date: string,
-    public time: string,
+    public store_name: null | string,
+    public store_address: null | string,
+    public nip: null | string,
+    public receipt_number: null | string,
+    public date: null | string,
+    public time: null | string,
     public products: ReceiptItem[],
-    public total: number,
-    public payment_method: string,
-    public currency: string,
+    public total: null | number,
+    public payment_method: null | string,
+    public currency: null | string,
     public vat: ReceiptVat,
   ) {}
 

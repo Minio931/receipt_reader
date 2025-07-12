@@ -1,11 +1,16 @@
 {
   "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "target": "es2017",
+    "module": "commonjs",
     "outDir": "./dist",
     "rootDir": "./src",
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
     },
+    "strictNullChecks": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "typeRoots": [

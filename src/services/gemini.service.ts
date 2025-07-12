@@ -9,8 +9,8 @@ import {
 
 export class GeminiService {
   private readonly apiKey: string;
-  private readonly modelName: string;
   private client: GoogleGenAI;
+  private readonly modelName: string;
 
   constructor(apiKey: string, modelName: string) {
     this.apiKey = apiKey;
@@ -21,12 +21,12 @@ export class GeminiService {
   }
 
   public async processReceipt(
-    inputImage64: string,
+    inputImages64: string[],
     prompt: string,
-    system: string = "You are receipt recognizer",
-    temperature: number = 0.0,
+    system = "You are receipt recognizer",
+    temperature = 0.0,
   ) {
-    const contents: Content[] = this.prepareMessage(inputImage64, prompt);
+    const contents: Content[] = this.prepareMessage(inputImages64, prompt);
 
     const options: GenerateContentConfig = {
       systemInstruction: system,
@@ -34,9 +34,9 @@ export class GeminiService {
     };
 
     const props: GenerateContentParameters = {
-      model: this.modelName,
-      contents,
       config: options,
+      contents,
+      model: this.modelName,
     };
 
     const response: GenerateContentResponse = await this.client.models.generateContent(props);
@@ -52,25 +52,18 @@ export class GeminiService {
     return JSON.parse(formattedText);
   }
 
-  private prepareMessage(inputImage64: string, prompt: string): Content[] {
+  private prepareMessage(inputImages64: string[], prompt: string): Content[] {
     return [
       {
         role: SenderRole.USER,
         parts: [
-          {
-            text: prompt,
-          },
-        ],
-      },
-      {
-        role: SenderRole.USER,
-        parts: [
-          {
+          { text: prompt },
+          ...inputImages64.map((base64) => ({
             inlineData: {
+              data: base64,
               mimeType: "image/jpg",
-              data: inputImage64,
             },
-          },
+          })),
         ],
       },
     ];

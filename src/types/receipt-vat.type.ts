@@ -1,4 +1,4 @@
-export type ReceiptVat = {
-  rate: string | null;
-  amount: string | null;
-};
+export interface ReceiptVat {
+  amount: null | string;
+  rate: null | string;
+}
